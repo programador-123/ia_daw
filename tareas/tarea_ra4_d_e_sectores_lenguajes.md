@@ -7,20 +7,21 @@
 ## 2) Sectores con implantación relevante de IA
 
 ### Sector 1
-- Nombre del sector: 
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Banca
+- Tipo de empresa/servicio: BBVA 
+- Aplicación de IA: Lo suelen aplicar a la hora de las lecturas de las monedas, cryto, etc en las que invertir.
+- Qué tarea mejora o automatiza: La de los analista de datos ya que les ayuda a leer los datos de manera mas amena y actualizada, para detectar cuando comprar o vender acciones o cuando aumentar o disminuir algunas tasas.
+- Por qué la IA tiene implantación relevante en este sector: Por que ayuda a ver datos que si lo hace una persona quizas tardaria horas, dias o semanas en darse cuenta.
+- Beneficios que aporta: Reduccion de perdidas y aumenta los ingresos aparte de otras funciones me imagino.
 
 ### Sector 2
-- Nombre del sector:
-- Tipo de empresa/servicio:
-- Aplicación de IA:
-- Qué tarea mejora o automatiza:
-- Por qué la IA tiene implantación relevante en este sector:
-- Beneficios que aporta:
+- Nombre del sector: Transporte
+- Tipo de empresa/servicio: Boluda
+- Aplicación de IA: El reconocimiento de rutas de productos.
+- Qué tarea mejora o automatiza: Mejora el reconocimiento de las rutas que estan en auge y las que estan perdiendo fuelle por lo que hace que se benefie de ello.
+Y automatiza las mejores rutas y contactos con empresas para comerciar mas rapidamente.
+- Por qué la IA tiene implantación relevante en este sector: Por que ahorra mucho tiempo son microdatos que a simple vista no se suele dar cuenta.
+- Beneficios que aporta:El ahorro de dinero en rutas que ya no valen la pena y el beneficio de dar mas importacia a otras rutas mas rentables.
 
 ### Sector 3
 - Nombre del sector:
@@ -33,7 +34,7 @@
 ## 3) Lenguajes de programación en IA
 
 ### Lenguaje 1
-- Nombre:
+- Nombre: Python
 - Uso principal en IA:
 - Ventajas:
 - Ejemplos de uso:
